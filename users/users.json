@@ -1,0 +1,14 @@
+{
+	"john1":{
+		"name":"john the ripper",
+		"dpURL":0,
+		"contactlistID":0
+
+	},
+	"john2":{
+		"name":"john the bipper",
+		"dpURL":0,
+		"contactlistID":0
+	},
+	"userlist":["john1","john2"]
+}
